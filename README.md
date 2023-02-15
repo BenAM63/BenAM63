@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenAM63
-- 👀 I’m interested in software development, graphic design, and web development.
-- 🌱 I’m currently developing my skills in game design by working on the Devil Fruit Mod for Terraria. I've also been practicing my skills in Blender.
+- 👀 I’m interested in web development, software development, and graphic design.
+- 🌱 I’m currently developing my skills in web development by creating a comprehensive e-commerce site with MERN Stack and Chakra UI
 - 📫 How to reach me: Ben.a.Moffett@gmail.com
 
 <!---
